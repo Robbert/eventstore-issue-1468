@@ -1,0 +1,4 @@
+{
+  "$maxAge": 60,
+  "$maxCount": 1
+}
